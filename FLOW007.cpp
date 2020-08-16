@@ -1,7 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
 int main() 
 {
   int t,n;
@@ -15,7 +13,6 @@ int main()
         n/=10;
         r=r*10+d;
       }
-    
     cout<<r<<endl;
   }
   return 0;
