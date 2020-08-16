@@ -1,8 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
-
 int main() 
 {
   int t,n,sum=0;
@@ -71,8 +68,7 @@ int main()
     if(n==1000000)
     {
       cout<<1;
-    }
-    
+    } 
   }
   return 0;
 }
